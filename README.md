@@ -13,8 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franklin.je@northeastern.edu)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8470--8349-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8470-8349)
 
-<img src="https://komarev.com/ghpvc/?username=jerryadamsfranklin&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
-
 </div>
 
 ---
@@ -31,7 +29,7 @@ My research on **federated LoRA fine-tuning** (adaptive phase-switching, 40.5% m
 
 <div align="center">
 
-| 💰 $450K+ | 🏆 7x Top Performer | 🎤 EthCC + NEARCON | 🧠 2 Papers Under Review |
+| $450K+ Impact | 7x Top Performer | EthCC + NEARCON | 2 Papers Under Review |
 |:---:|:---:|:---:|:---:|
 | AI-informed investments via VCScout-AI | FLock AI Arena | Invited Speaker | TMLR + PeerJ CS (Q1) |
 
@@ -133,20 +131,7 @@ My research on **federated LoRA fine-tuning** (adaptive phase-switching, 40.5% m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jerryadamsfranklin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryadamsfranklin&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jerryadamsfranklin&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jerryadamsfranklin&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
 
 </div>
 
