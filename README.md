@@ -31,7 +31,7 @@ My research on **federated LoRA fine-tuning** (adaptive phase-switching, 40.5% m
 
 <div align="center">
 
-| 💰 $450K+ | 🏆 7x Top Performer | 🎤 EthCC + NEARCON | 🧠 2 Papers Under Review |
+| $450K+ Impact | 7x Top Performer | EthCC + NEARCON | 2 Papers Under Review |
 |:---:|:---:|:---:|:---:|
 | AI-informed investments via VCScout-AI | FLock AI Arena | Invited Speaker | TMLR + PeerJ CS (Q1) |
 
