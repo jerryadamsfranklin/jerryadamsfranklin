@@ -13,8 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franklin.je@northeastern.edu)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8470--8349-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8470-8349)
 
-<img src="https://komarev.com/ghpvc/?username=jerryadamsfranklin&style=for-the-badge&color=58a6ff&label=Profile+Views" alt="Profile Views"/>
-
 </div>
 
 ---
