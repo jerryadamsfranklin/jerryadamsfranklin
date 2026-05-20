@@ -133,20 +133,7 @@ My research on **federated LoRA fine-tuning** (adaptive phase-switching, 40.5% m
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jerryadamsfranklin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryadamsfranklin&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jerryadamsfranklin&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="60%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jerryadamsfranklin&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%"/>
 
 </div>
 
