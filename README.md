@@ -120,13 +120,13 @@ My research on **federated LoRA fine-tuning** focuses on communication efficienc
 
 | Event | Topic | Year |
 |:---|:---|:---|
-| **USAII AI Expert Talks Podcast** | Featured Expert: Open vs Frontier Models | 2026 |
 | **AI Risk Summit & CISO Forum, Half Moon Bay** | Invited talk: Federated Learning as AI Risk Infrastructure (selected from 300+ submissions) | 2026 |
-| **Guest Lecture, VIT-AP University** | Production AI: LLMs, LoRA/QLoRA, and real-world deployment | 2026 |
 | **NEARCON 2026, San Francisco** | Lightning talk: Training 7B LLMs on edge devices | 2026 |
 | **EthCC, Brussels** | Invited segment: Decentralized AI and federated learning on FLock | 2024 |
 | **FLock AI Arena** | Top Performer 7x across distinct tasks, 1st place in two major hackathons | 2024 |
 | **Intel AIA Division Achievement Award** | TensorFlow on Windows, 10K downloads on day one | 2022 |
+| **Guest Lecture, VIT-AP University** | Production AI: LLMs, LoRA/QLoRA, and real-world deployment | 2026 |
+| **USAII AI Expert Talks Podcast** | Featured Expert: Open vs Frontier Models | 2026 |
 
 ---
 
