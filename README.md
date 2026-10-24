@@ -29,7 +29,7 @@ My research on **federated LoRA fine-tuning** focuses on communication efficienc
 
 <div align="center">
 
-| 💰 $450K+ | 🏆 7x Top Performer | AI Risk Summit + NEARCON | 3 Papers Under Review |
+| $450K+ Impact | 7x Top Performer | AI Risk Summit + NEARCON | 3 Papers Under Review |
 |:---:|:---:|:---:|:---:|
 | AI-informed investments via VCScout-AI | FLock AI Arena | Invited Speaker | IEEE Access · Sci Reports · PeerJ CS |
 
@@ -154,13 +154,6 @@ My research on **federated LoRA fine-tuning** focuses on communication efficienc
 ---
 
 ## GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jerryadamsfranklin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryadamsfranklin&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
-
-</div>
 
 <div align="center">
 
