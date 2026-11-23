@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58a6ff&height=200&section=header&text=Jerry%20Adams%20Franklin&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer%20%7C%20LLMs%20%C2%B7%20Agentic%20AI%20%C2%B7%20Federated%20Learning&descSize=18&descAlignY=58&descColor=8b949e" width="100%"/>
 
 <a href="https://www.jerryadamsfranklin.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+IV+%40+Digital+Currency+Group;LLM+Fine-tuning+%7C+Agentic+AI+%7C+Federated+Learning;Invited+Speaker+%40+AI+Risk+Summit%2C+NEARCON+%26+EthCC;Peer+Reviewer+%40+TMLR+%26+Springer+Nature;Top+Performer+on+FLock+AI+Arena+(7%C3%97);Open+to+Senior+AI%2FML+Engineering+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+IV+%40+Digital+Currency+Group;LLM+Fine-tuning+%7C+Agentic+AI+%7C+Federated+Learning;Invited+Speaker+%40+AI+Risk+Summit%2C+NEARCON+%26+EthCC;Peer+Reviewer+%40+TMLR%2C+IEEE+%26+Springer+Nature;Top+Performer+on+FLock+AI+Arena+(7%C3%97);Open+to+Senior+AI%2FML+Engineering+Roles" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-adams-franklin/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franklin.je@northeastern.edu)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8470--8349-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8470-8349)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=sDS1eyIAAAAJ)
 
 </div>
 
@@ -23,7 +24,7 @@ I build production-grade intelligent systems: from fine-tuning LLMs and orchestr
 
 At **Digital Currency Group**, I architected **VCScout-AI**, a LangChain-based agentic RAG pipeline powered by Qwen-7B and Weaviate that analyzed 300+ startup deals and directly drove **$450K+ in AI-informed investments**. Previously at **Intel**, I led TensorFlow CPU optimization, earning the **Division Achievement Award** and shipping TF 2.11 to 10,000+ downloads in a single day.
 
-My research on **federated LoRA fine-tuning** focuses on communication efficiency and evaluation reliability, with three manuscripts under review at IEEE Access, Scientific Reports, and PeerJ Computer Science, including a communication-quality frontier study with 40.5% measured communication savings ([arXiv:2609.13512](https://arxiv.org/abs/2609.13512)). I write on HackerNoon, speak at the AI Risk Summit, NEARCON, and EthCC, and guest-lecture at universities on production LLMs.
+My research on **federated LoRA fine-tuning** focuses on communication efficiency and evaluation reliability, with three manuscripts under review at IEEE Access, Scientific Reports, and PeerJ Computer Science, including a communication-quality frontier study with 40.5% measured communication savings on TinyLlama-1.1B ([arXiv:2609.13512](https://arxiv.org/abs/2609.13512)). I review for TMLR, IEEE Internet of Things Journal, IEEE Transactions on Services Computing, IEEE Access, and the Journal of Supercomputing. I write on HackerNoon, speak at the AI Risk Summit, NEARCON, and EthCC, and guest-lecture at universities on production LLMs.
 
 <br/>
 
@@ -97,11 +98,11 @@ My research on **federated LoRA fine-tuning** focuses on communication efficienc
 |:---|:---|:---|
 | **VCScout-AI** | Agentic RAG pipeline analyzing 300+ startup deals, driving $450K+ in AI-informed investments at DCG | LangChain · Qwen-7B · Weaviate · GCP |
 | **Decentralized AI on FLock** | Federated learning models ranked Top Performer 7x across distinct AI Arena tasks | Federated Learning · PyTorch · Blockchain |
-| **[Federated LoRA Communication Frontier](https://github.com/jerryadamsfranklin/fedlora-protocols)** | ReverseAdaptive aggregator achieving 40.5% measured communication savings over FLoRA; under review at Scientific Reports | PyTorch · TinyLlama · LLaMA-3.2 |
+| **[Federated LoRA Communication Frontier](https://github.com/jerryadamsfranklin/fedlora-protocols)** | ReverseAdaptive aggregator cutting measured round-trip communication 40.5% vs FLoRA on TinyLlama-1.1B (30.0% on LLaMA-3.2-3B); under review at Scientific Reports | PyTorch · TinyLlama · LLaMA-3.2 |
 | **[Partition-Variance in Federated LoRA](https://github.com/jerryadamsfranklin/fedlora-partition-variance)** | Pre-registered 204-run study showing data-partition draws, not aggregators, drive result variance under non-IID splits; under review at IEEE Access | PyTorch · FedIT · FLoRA · FFA-LoRA |
-| **finance-news-chat-app** | Conversational search interface for financial news with keyword retrieval and query intent classification | Flask · Python · RAG |
+| **[finance-news-chat-app](https://github.com/jerryadamsfranklin/finance-news-chat-app)** | Conversational search interface for financial news with keyword retrieval and query intent classification | Flask · Python · RAG |
 | **Brain Tumor Detection** | 12-layer TensorFlow CNN achieving 0.96 sensitivity on MRI classification | TensorFlow · CNN · Medical AI |
-| **Amazon Recommender System** | Collaborative filtering with PCA, Agglomerative Clustering, and Matrix Factorization (MAE 0.096) | Python · Scikit-learn · PCA |
+| **[Amazon Recommender System](https://github.com/jerryadamsfranklin/amazon-recommender-system)** | Collaborative filtering with PCA, Agglomerative Clustering, and Matrix Factorization (MAE 0.096) | Python · Scikit-learn · PCA |
 
 </div>
 
@@ -109,9 +110,9 @@ My research on **federated LoRA fine-tuning** focuses on communication efficienc
 
 ## Research and writing
 
-- **Partition Draws, Not Aggregators: Decomposing Result Variance in Federated LoRA Fine-Tuning Under Non-IID Splits** · Under review at *IEEE Access* · [DOI](https://doi.org/10.5281/zenodo.22861074) · [GitHub](https://github.com/jerryadamsfranklin/fedlora-partition-variance)
-- **A Measured Communication-Quality Frontier for Federated LoRA Fine-Tuning with Adaptive Phase-Switching** · Under review at *Scientific Reports* · [arXiv:2609.13512](https://arxiv.org/abs/2609.13512) · [DOI](https://doi.org/10.5281/zenodo.23309301) · [GitHub](https://github.com/jerryadamsfranklin/fedlora-protocols)
-- **Fine-Tuning Large Language Models in Resource-Constrained Environments: Methods and Trade-offs** · Under review at *PeerJ Computer Science* (Q1)
+- **Partition Draws, Not Aggregators: Decomposing Result Variance in Federated LoRA Fine-Tuning Under Non-IID Splits** · Under review at *IEEE Access* · [Preprint](https://doi.org/10.5281/zenodo.23523842) · [Code & Data](https://doi.org/10.5281/zenodo.22861074) · [GitHub](https://github.com/jerryadamsfranklin/fedlora-partition-variance)
+- **A Measured Communication-Quality Frontier for Federated LoRA Fine-Tuning with Adaptive Phase-Switching** · Under review at *Scientific Reports* · [arXiv:2609.13512](https://arxiv.org/abs/2609.13512) · [GitHub](https://github.com/jerryadamsfranklin/fedlora-protocols) · [Code Archive](https://doi.org/10.5281/zenodo.23309301)
+- **Fine-Tuning Large Language Models in Resource-Constrained Environments: Methods and Trade-offs** · Under review at *PeerJ Computer Science* · [Preprint](https://doi.org/10.5281/zenodo.23504005)
 - **QLoRA Explained: The Memory Compression Breakthrough** · [HackerNoon, May 2026](https://hackernoon.com/qlora-explained-the-memory-compression-breakthrough)
 
 ---
@@ -120,13 +121,13 @@ My research on **federated LoRA fine-tuning** focuses on communication efficienc
 
 | Event | Topic | Year |
 |:---|:---|:---|
-| **AI Risk Summit & CISO Forum, Half Moon Bay** | Invited talk: Federated Learning as AI Risk Infrastructure (selected from 300+ submissions) | 2026 |
-| **NEARCON 2026, San Francisco** | Lightning talk: Training 7B LLMs on edge devices | 2026 |
-| **EthCC, Brussels** | Invited segment: Decentralized AI and federated learning on FLock | 2024 |
-| **FLock AI Arena** | Top Performer 7x across distinct tasks, 1st place in two major hackathons | 2024 |
+| **AI Risk Summit & CISO Forum, Half Moon Bay** | Invited talk: [Federated Learning as AI Risk Infrastructure](https://www.airisksummit.com/event-session/federated-learning-as-ai-risk-infrastructure-the-aggregation-problem-enterprises-are-not-ready-for/) (selected from 300+ submissions) | 2026 |
+| **NEARCON 2026, San Francisco** | Lightning talk: [Training 7B LLMs on edge devices](https://www.youtube.com/watch?v=qqr9qN8G7e0) | 2026 |
+| **EthCC, Brussels** | Invited segment: [Decentralized AI and federated learning on FLock](https://www.youtube.com/watch?v=xaITRSfM_9k&t=23750s) | 2024 |
+| **FLock AI Arena** | Top Performer 7x across distinct tasks, 1st place in two major hackathons ([FLock interview](https://www.flock.io/blog/flock-interviews-top-ai-arena-user-from-foundry)) | 2024 |
 | **Intel AIA Division Achievement Award** | TensorFlow on Windows, 10K downloads on day one | 2022 |
 | **Guest Lecture, VIT-AP University** | Production AI: LLMs, LoRA/QLoRA, and real-world deployment | 2026 |
-| **USAII AI Expert Talks Podcast** | Featured Expert: Open vs Frontier Models | 2026 |
+| **USAII AI Expert Talks Podcast** | Featured Expert: [Open vs Frontier Models](https://www.youtube.com/watch?v=sk9CDez2nag) | 2026 |
 
 ---
 
@@ -134,10 +135,11 @@ My research on **federated LoRA fine-tuning** focuses on communication efficienc
 
 | Role | Organization | Year |
 |:-----|:-------------|:-----|
-| **Peer Reviewer** | Transactions on Machine Learning Research (TMLR) | 2026 |
-| **Peer Reviewer** | International Journal of Cooperative Information Systems (World Scientific) | 2026 |
-| **Peer Reviewer** | Journal of Supercomputing (Springer Nature) | 2026 |
-| **Peer Reviewer** | ACM Computing Surveys | 2026 |
+| **Peer Reviewer** | [Transactions on Machine Learning Research (TMLR)](https://jmlr.org/tmlr/) | 2026 |
+| **Peer Reviewer** | [IEEE Internet of Things Journal](https://ieee-iotj.org/) | 2026 |
+| **Peer Reviewer** | [IEEE Transactions on Services Computing](https://www.computer.org/csdl/journal/sc) | 2026 |
+| **Peer Reviewer** | [IEEE Access](https://ieeeaccess.ieee.org/) | 2026 |
+| **Peer Reviewer** | [Journal of Supercomputing (Springer Nature)](https://link.springer.com/journal/11227) | 2026 |
 | **Judge** | MHacks 26, University of Michigan | 2026 |
 | **Judge** | IBM Bob 2.0 Hackathon, lablab.ai × IBM | 2026 |
 | **Judge** | UC Berkeley AI Hackathon 2026 | 2026 |
